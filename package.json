@@ -42,7 +42,7 @@
     "prepare": "npm-run-all clean build lint test"
   },
   "dependencies": {
-    "d3-hierarchy": "^1.1.5"
+    "d3-hierarchy": "^3.1.2"
   },
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.22.0",
